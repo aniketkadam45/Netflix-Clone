@@ -70,9 +70,8 @@
 }
 
 .content {
-      gap: 35px;
-      padding: 10px;
-      background-color: none; /* Example background color for content */
+      gap: 25px;
+      padding: 0 120px;
       display: flex;
       justify-content: space-around;
       flex-wrap: wrap;
